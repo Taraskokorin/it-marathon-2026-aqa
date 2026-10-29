@@ -1,0 +1,10 @@
+.env
+bin/
+obj/
+TestResults/
+artifacts/
+*.user
+.vs/
+.idea/
+.vscode/
+*.feature.cs
